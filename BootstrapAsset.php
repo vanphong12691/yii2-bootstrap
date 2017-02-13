@@ -19,6 +19,5 @@ class BootstrapAsset extends AssetBundle
 {
     public $sourcePath = '@bower/bootstrap/dist';
     public $css = [
-        'css/bootstrap.css',
     ];
 }
